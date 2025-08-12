@@ -3,7 +3,11 @@
 A modern, fully responsive user registration application built with React and Redux Toolkit, featuring a beautiful glassmorphism design and comprehensive user experience.
 
 ![React](https://img.shields.io/badge/React-18+-blue.svg)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-2.x-purple.svg)
+![Redux Toolkit](https://img.---
+
+**Built with ❤️ by the Nana Caring Team**
+
+*Making user registration beautiful, accessible, and responsive for everyone.*Redux%20Toolkit-2.x-purple.svg)
 ![Vite](https://img.shields.io/badge/Vite-5.x-green.svg)
 ![Responsive](https://img.shields.io/badge/Design-Fully%20Responsive-orange.svg)
 
