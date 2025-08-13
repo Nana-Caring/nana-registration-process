@@ -35,8 +35,16 @@ const RegistrationSuccess = () => {
           <div className="detail-item">
             <FaEnvelope className="detail-icon" />
             <div className="detail-text">
-              <h3>Check Your Email</h3>
-              <p>We've sent a verification email to your registered email address. Please verify your account to get started.</p>
+              <h3>Welcome Email Sent</h3>
+              <p>We've sent your login credentials and welcome information to your registered email address. Please check your inbox (and spam folder) for your account details.</p>
+            </div>
+          </div>
+          
+          <div className="detail-item">
+            <FaUserPlus className="detail-icon" />
+            <div className="detail-text">
+              <h3>Account Created</h3>
+              <p>Your NANA Portal account is now active. Use the credentials sent to your email to log in and start exploring our services.</p>
             </div>
           </div>
         </div>
