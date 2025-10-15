@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from '../assets/logo.jpg';
+import logo from '../assets/logo.png';
 
 const Header = ({ title = "Nana Caring", subtitle = "Empowering Families, Ensuring Every Child's Needs Are Met" }) => {
   return (
