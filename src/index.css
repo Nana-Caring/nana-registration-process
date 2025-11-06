@@ -232,6 +232,7 @@ select {
   }
   
   .container {
+  .container {
     padding: 0 clamp(0.5rem, 2vw, 1rem);
   }
 }
@@ -253,4 +254,5 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
 }
